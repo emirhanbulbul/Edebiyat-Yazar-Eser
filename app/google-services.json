@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322230505726",
+    "firebase_url": "https://edebiyat-yazar-eser-254f9.firebaseio.com",
+    "project_id": "edebiyat-yazar-eser-254f9",
+    "storage_bucket": "edebiyat-yazar-eser-254f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322230505726:android:2976d020d6beacd27e95af",
+        "android_client_info": {
+          "package_name": "com.edebiyat.yazareser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322230505726-vgdn2h64dqq74u11tql59rg4ufcs3u2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edebiyat.yazareser",
+            "certificate_hash": "b4dbc8678a4b2bea49be96c9fd1e089180a0fc2e"
+          }
+        },
+        {
+          "client_id": "322230505726-o9vrtn81sau31a7aenoufv71m24uqpnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcoAjkLmtCgbHwnwm39jnvfnPozMG0Bxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322230505726-o9vrtn81sau31a7aenoufv71m24uqpnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

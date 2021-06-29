@@ -1,4 +1,4 @@
-# Edebiyat-Yazar-Eser
+# Edebiyat Yazar Ve Eser
 Üniversite sınavına hazırlanan gençler için, rastgele olarak yazar ve eserini ekrana getiren android uygulaması.
 
 Uygulamada bir adet açılış ekranı (splash screen) bir adet yazar ve eserlerin göründüğü ekran bulunmaktadır. 

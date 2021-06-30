@@ -5,7 +5,7 @@ Uygulamada bir adet açılış ekranı (splash screen) bir adet yazar ve eserler
 
 Veritabanında bulunan yazar ve eser bilgileri çekilir, diziye kaydedilir. Diziye kaydedilen veriler ekrana her dokunulduğunda kullanıcının karşısına rastgele çıkartılır.
 
-## Kullanılan Teknolojiler?
+## Kullanılan Teknolojiler ve Ortam
 1. Java
 2. Google Cloud Firestore
 3. Android Studio
